@@ -1,1 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
+!/db.sqlite3
+!/MoGo_FREE_Template_by_Laaqiq.psd
+!/app/migrations/
+!.idea/
